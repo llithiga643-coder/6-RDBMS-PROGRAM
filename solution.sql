@@ -1,5 +1,5 @@
-CREATE DATABASE LITHU124;
-USE LITHU124;
+CREATE DATABASE lithu1242;
+USE lithu1242;
 update student 
 SET Department = 103
 where student_name = 'Karthick';
